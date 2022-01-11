@@ -1,11 +1,30 @@
-    body{font-family: 'Oswald', sans-serif;margin: 0;}
+   body{font-family: 'Oswald', sans-serif;margin:10px auto ;background-color:#FFF;width:90%;}
     .clear{overflow:hidden;}
-      .body{width:90%;margin:10px auto;background-color:#FFF;}  
      .about{height:170px;width:50%;}
      .about h1{border-left:10px solid green;padding-left:5px;font-size:50px;}
      .marking-color{color:green}
      .color1{color:#FF033E;}
-     a{text-decoration:none;}
-     .raju_pic img{width:400px;padding:0px 0px 40px 0px;}
-     .raju_pic{float:right;width:,20%;margin:0px 0px 0px 50px}
-     
+      a{text-decoration:none;}
+     .raju_pic img{width:370px;}
+     .raju_pic{float:right;width:400px;padding:0px 50px 0px 0px;}
+     .midle{margin:0px 0px 0px 220px;}
+     .midle h1{font-size:60px;}
+     .color2{color:green;}
+     .pic{height:300px;padding:0px 0px 0px 0px;}
+     .pic1{background-color:#238F597D;width:280px;height:360px;float:left;border-radius:15px;}
+     .pic1 img{width:150px;}
+     .pic1 p{padding:0px 20px 0px 20px;text-align: center;}
+     .pic1 h2{padding:0px 0px 0px 0px;text-align: center}
+     .marking_color{color:#E31111F5;}
+     .pic2{width:20%;float:right;background-color:#66812D73; height:360px;width:280px;border-radius:15px;margin: 0px 20px 0px 0px;}
+     .pic2 img{width:150px;}
+     .pic2 p{padding:0px 15px 0px 15px;text-align: center;}
+     .pic2 h2{text-align: center;}
+     .pic3{width:280px;float:right;height:360px;background:#A9292954;margin: 0px 0px 0px 0px;border-radius:15px;}
+     .pic3 p{padding:0px 15px 0px 15px;text-align: center;}
+     .pic3 h2{text-align: center;}
+     .pic3 img{width:150px;}
+     .pic4{width:300px;margin-top:30px;float:left;}
+     .pic4 img{width:280px}
+     .conten{width:580px;float:right;max-height:450px;margin:60px 0px 0px 0px;}
+     .conten p{font-size:13px;}
